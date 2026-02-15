@@ -8,7 +8,7 @@ from fastapi.responses import JSONResponse
 
 model= joblib.load('final_churn_model.pkl')
 features=joblib.load('feature_names.pkl')
-scaler=joblib.load('scaler.pkl')    
+  
 
 app=FastAPI()
 
