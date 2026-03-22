@@ -92,7 +92,7 @@ Top factors influencing churn:
 ##  Installation
 
 ```bash
-git clone (https://github.com/HarshRaj-072004/churn-api.git)
+git clone https://github.com/HarshRaj-072004/churn-api.git
 cd churn-prediction
 pip install -r requirements.txt
 ```
