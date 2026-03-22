@@ -1,13 +1,13 @@
-# 📊 Customer Churn Prediction System
+# Customer Churn Prediction System
 
-## 🚀 Overview
+##  Overview
 
 This project builds an end-to-end **Customer Churn Prediction System** using Machine Learning.
 It predicts whether a customer will leave a bank based on historical data and provides **actionable insights** to reduce churn.
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 * 🔍 Predict customer churn using ML models
 * ⚖️ Handle class imbalance using SMOTE
@@ -19,7 +19,7 @@ It predicts whether a customer will leave a bank based on historical data and pr
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 * **Source:** Customer Churn Modelling Dataset
 * **Records:** 10,000+ customers
@@ -28,7 +28,7 @@ It predicts whether a customer will leave a bank based on historical data and pr
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Languages:** Python
 * **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
@@ -38,7 +38,7 @@ It predicts whether a customer will leave a bank based on historical data and pr
 
 ---
 
-## 🔬 Model Performance
+##  Model Performance
 
 | Model               | Accuracy  | ROC-AUC  | Recall (Churn) |
 | ------------------- | --------- | -------- | -------------- |
@@ -50,7 +50,7 @@ It predicts whether a customer will leave a bank based on historical data and pr
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 Top factors influencing churn:
 
@@ -62,14 +62,14 @@ Top factors influencing churn:
 
 ---
 
-## 💡 Business Impact
+##  Business Impact
 
 * Identified high-risk customers using ML predictions
 * Simulated **$5.5M+ potential annual savings** through targeted retention strategies
 
 ---
 
-## 🏗️ Project Workflow
+##  Project Workflow
 
 1. Data Loading & Exploration
 2. Data Cleaning & Encoding
@@ -82,24 +82,24 @@ Top factors influencing churn:
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 * Backend: FastAPI (REST API for predictions)
 * Frontend: Streamlit (interactive UI)
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
-git clone https://github.com/your-username/churn-prediction.git
+git clone (https://github.com/HarshRaj-072004/churn-api.git)
 cd churn-prediction
 pip install -r requirements.txt
 ```
 
 ---
 
-## ▶️ Run Locally
+##  Run Locally
 
 ### Run API
 
@@ -115,7 +115,7 @@ streamlit run app.py
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Hyperparameter tuning for better performance
 * Real-time data integration
@@ -124,7 +124,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Harsh Raj**
 
