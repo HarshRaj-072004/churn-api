@@ -9,13 +9,13 @@ It predicts whether a customer will leave a bank based on historical data and pr
 
 ##  Key Features
 
-* 🔍 Predict customer churn using ML models
-* ⚖️ Handle class imbalance using SMOTE
-* 📈 Compare multiple models (Logistic Regression, Random Forest, XGBoost)
-* 📊 Evaluate using Accuracy, F1-score, ROC-AUC
-* 🧠 Identify key churn drivers using feature importance
-* 💰 Simulate business impact (potential revenue savings)
-* 🌐 Deploy using FastAPI + Streamlit
+*  Predict customer churn using ML models
+*  Handle class imbalance using SMOTE
+*  Compare multiple models (Logistic Regression, Random Forest, XGBoost)
+*  Evaluate using Accuracy, F1-score, ROC-AUC
+*  Identify key churn drivers using feature importance
+*  Simulate business impact (potential revenue savings)
+*  Deploy using FastAPI + Streamlit
 
 ---
 
@@ -43,10 +43,10 @@ It predicts whether a customer will leave a bank based on historical data and pr
 | Model               | Accuracy  | ROC-AUC  | Recall (Churn) |
 | ------------------- | --------- | -------- | -------------- |
 | Logistic Regression | 80.0%     | 0.76     | 39%            |
-| Random Forest ✅     | **84.5%** | **0.85** | **54%**        |
+| Random Forest       | **84.5%** | **0.85** | **54%**        |
 | XGBoost             | 84.3%     | 0.84     | 56%            |
 
-👉 **Random Forest selected as best model**
+ **Random Forest selected as best model**
 
 ---
 
